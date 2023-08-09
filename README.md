@@ -9,7 +9,9 @@
 - [Visual Studio Code](#visual-studio-code)
 
 ## DBeaver
-Note that these shortcuts are based on the default keybindings in DBeaver.
+Open-source database tool for connecting, querying, and managing databases with versatile support for different systems.
+
+**Note**: that these shortcuts are based on the default keybindings in DBeaver.
 #### General Shortcuts
 - **Ctrl + N**: New Connection
 - **Ctrl + Shift + N**: New SQL Editor
@@ -62,12 +64,10 @@ Keep in mind that **DBeaver** might introduce new features and shortcuts in upda
 so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
 Check it here: https://dbeaver.com/docs/wiki/Shortcuts/
 
-#### what is DBeaver? 
-
-Open-source database tool for connecting, querying, and managing databases with versatile support for different systems.
-
 ## Eclipse
-Note that these shortcuts are based on the default keybindings in Eclipse IDE.
+Open-source integrated development environment (IDE) for coding, debugging, and building software across multiple programming languages.
+
+**Note**: that these shortcuts are based on the default keybindings in Eclipse IDE.
 - **Ctrl + Space**: Content Assist. Displays suggestions for code completion as you type.
 - **Ctrl + Shift + O**: Organize Imports. Automatically adds or removes import statements for classes used in your code.
 - **Ctrl + Shift + F**: Format Code. Automatically formats your code according to your coding style settings.
@@ -102,11 +102,10 @@ Note that these shortcuts are based on the default keybindings in Eclipse IDE.
 Eclipse also allows you to customize shortcuts to match your preferences. You can explore more shortcuts and their functionalities in the "Keys" preference page in Eclipse settings.
 Check documentation here: https://eclipseide.org/getting-started/
 
-#### what is Eclipse?
-Open-source integrated development environment (IDE) for coding, debugging, and building software across multiple programming languages.
-
 ## IntelliJ Idea
-Note that these shortcuts are based on the default keybindings in IntelliJ IDEA.
+Premium integrated development environment (IDE) for streamlined coding, testing, and debugging, with advanced features for Java and other languages.
+
+**Note**: that these shortcuts are based on the default keybindings in IntelliJ IDEA.
 - **Ctrl + Space**: Basic code completion. Shows suggestions for code while typing.
 - **Ctrl + Shift + Space**: Smart code completion. Shows suggestions based on the type expected at the current caret position.
 - **Ctrl + N**: Open class. Allows you to quickly search for and open a specific class.
@@ -132,10 +131,9 @@ Keep in mind that **IntelliJ IDEA** might introduce new features and shortcuts i
 so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
 Check it here: https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html
 
-#### what is IntelliJ IDEA?
-Premium integrated development environment (IDE) for streamlined coding, testing, and debugging, with advanced features for Java and other languages.
-
 ## Ubuntu
+Popular open-source Linux operating system known for its user-friendly interface, security features, and extensive software support.
+
 - **Ctrl + Shift + N**: New terminal window, this shortcut can be used to open a new terminal window. For this to work, you should already be on the terminal window.
 - **Ctrl + Shift + T**: New terminal tab, if you use this combination, you can open terminal tab on same window.
 - **Ctrl + C or Ctrl + Z**: Kill the current process, if you are running any application through the terminal, you can kill it by using this combination.
@@ -167,11 +165,10 @@ Premium integrated development environment (IDE) for streamlined coding, testing
 - **Ctrl + Shift + F**: Find, similar to Ctrl + F on any text editor, use to find through the terminal console.
 - **Alt + C**: Capitalizes the word next to the cursor and move to end of the word. For Example: Suppose a word hangout and cursor is before hangout, the shortcut will capitalize ‘h’ of hangout and go to the end of the word.
 
-#### what is Ubuntu?
-Popular open-source Linux operating system known for its user-friendly interface, security features, and extensive software support.
-
 ## Postman
-Note that these shortcuts are based on the default keybindings in Postman.
+Leading collaboration platform for API development and testing, simplifying the process of designing, sharing, and monitoring APIs.
+
+**Note**: that these shortcuts are based on the default keybindings in Postman.
 - **Ctrl + N**: New request. Creates a new API request tab.
 - **Ctrl + T**: New tab. Opens a new tab within the current request.
 - **Ctrl + L**: Focus on URL bar. Moves the cursor to the URL bar for quick editing.
@@ -204,11 +201,10 @@ Keep in mind that **Postman** might introduce new features and shortcuts in upda
 so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
 Check it here: https://blog.postman.com/speeding-up-workflows-with-keyboard-shortcuts/
 
-#### what is Postman?
-Leading collaboration platform for API development and testing, simplifying the process of designing, sharing, and monitoring APIs.
-
 ## Visual Studio
-Note that these shortcuts are based on the default keybindings in Visual Studio.
+Comprehensive integrated development environment (IDE) by Microsoft, offering tools for building, testing, and deploying software across various platforms and programming languages.
+
+**Note**: that these shortcuts are based on the default keybindings in Visual Studio.
 - **Ctrl + S**: Save the current file.
 - **Ctrl + Shift + S**: Save all open files.
 - **Ctrl + F5**: Start without debugging. Runs your application without attaching the debugger.
@@ -256,11 +252,10 @@ Keep in mind that **Visual Studio** might introduce new features and shortcuts i
 so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
 Check it here: https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022
 
-#### what is Visual Studio?
-Comprehensive integrated development environment (IDE) by Microsoft, offering tools for building, testing, and deploying software across various platforms and programming languages.
-
 ## Visual Studio Code
-Note that these shortcuts are based on the default keybindings in VS Code.
+Lightweight, open-source code editor by Microsoft with extensive language support, extensions, and debugging capabilities for efficient software development.
+
+**Note**: that these shortcuts are based on the default keybindings in VS Code.
 - **Ctrl + P**: Quick Open. Allows you to quickly navigate to files in your project.
 - **Ctrl + Shift + N**: New window. Opens a new window of VS Code.
 - **Ctrl + B**: Toggle sidebar visibility. Shows or hides the sidebar containing the file explorer, extensions, etc.
@@ -291,5 +286,3 @@ Keep in mind that **VS Code** might introduce new features and shortcuts in upda
 so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
 Check it here: https://code.visualstudio.com/docs/getstarted/keybindings
 
-#### what is VS Code?
-Lightweight, open-source code editor by Microsoft with extensive language support, extensions, and debugging capabilities for efficient software development.
