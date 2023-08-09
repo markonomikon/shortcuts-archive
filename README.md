@@ -9,6 +9,7 @@
 - [Visual Studio Code](#visual-studio-code)
 
 ## DBeaver
+Note that these shortcuts are based on the default keybindings in DBeaver.
 #### General Shortcuts
 - **Ctrl + N**: New Connection
 - **Ctrl + Shift + N**: New SQL Editor
@@ -56,6 +57,10 @@
 - **Ctrl + X**: Cut
 - **Ctrl + V**: Paste
 - **Ctrl + A**: Select All
+
+Keep in mind that **DBeaver** might introduce new features and shortcuts in updates,
+so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
+Check it here: https://dbeaver.com/docs/wiki/Shortcuts/
 
 ## Eclipse
 Note that these shortcuts are based on the default keybindings in Eclipse IDE.
