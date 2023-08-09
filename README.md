@@ -1,5 +1,6 @@
 # shortcuts-archive
 
+- [Eclipse IDE](#eclipse)
 - [IntelliJ Idea](#intellij-idea)
 - [Ubuntu: terminal shortcuts](#ubuntu)
 - [Postman](#postman)
@@ -7,7 +8,43 @@
 - [Visual Studio Code](#visual-studio-code)
 
 
+## Eclipse
+Note that these shortcuts are based on the default keybindings in Eclipse IDE.
+- **Ctrl + Space**: Content Assist. Displays suggestions for code completion as you type.
+- **Ctrl + Shift + O**: Organize Imports. Automatically adds or removes import statements for classes used in your code.
+- **Ctrl + Shift + F**: Format Code. Automatically formats your code according to your coding style settings.
+- **F3**: Open Declaration. Navigates to the declaration of the selected symbol.
+- **Ctrl + Click (or F3)**: Open Declaration. Alternative shortcut for opening the declaration of a symbol.
+- **Ctrl + Shift + G**: Find References. Searches for all references to the selected symbol.
+- **Ctrl + 1**: Quick Fix. Shows a list of possible actions to resolve issues or optimize code.
+- **Ctrl + D**: Delete Line. Deletes the current line or selected lines of code.
+- **Ctrl + F**: Find. Opens the search bar for finding text within the current file.
+- **Ctrl + H**: Search Dialog. Opens a more comprehensive search dialog for searching code, resources, and more.
+- **Ctrl + E**: Open Resource. Opens a dialog for quickly navigating to a specific file in the workspace.
+- **Ctrl + Shift + L**: Show Key Assist. Displays a list of available keyboard shortcuts.
+- **Ctrl + Shift + T**: Open Type. Opens a dialog for quickly searching and opening a specific class.
+- **Ctrl + Shift + R**: Open Resource. Similar to Ctrl + E, opens a dialog for quickly searching and opening a specific resource.
+- **Ctrl + Shift + L, L**: Lock Toolbar. Locks the toolbar for quick access to common actions.
+- **Ctrl + Shift + F4**: Close All. Closes all open editors.
+- **Ctrl + / (or Ctrl + Shift + /)**: Toggle Comment. Comments or uncomment the selected lines of code.
+- **Ctrl + Alt + Up/Down Arrow**: Copy Lines. Copies the current line or selected lines up or down.
+- **Ctrl + Alt + T**: Surround With. Wraps the selected code block with a specific code construct (if, try-catch, etc.).
+- **Alt + Shift + R**: Rename. Allows you to quickly rename a symbol throughout the codebase.
+- **Alt + Shift + M**: Extract Method. Extracts the selected code into a new method.
+- **Alt + Shift + L**: Extract Local Variable. Extracts the selected code into a new local variable.
+- **Alt + Shift + F**: Extract Field. Extracts the selected code into a new class field.
+- **Alt + Shift + C**: Change Method Signature. Modifies the parameters of a method and updates all calls.
+- **Ctrl + Shift + X**: Uppercase. Converts the selected text to uppercase.
+- **Ctrl + Shift + Y**: Lowercase. Converts the selected text to lowercase.
+- **Ctrl + F6**: Switch Editor. Switches between open editor tabs.
+- **Ctrl + Shift + Up/Down Arrow**: Move Lines. Moves the current line or selected lines up or down.
+- **Ctrl + Shift + I**: Auto-Indent. Corrects the indentation of the selected code.
+- **Ctrl + T**: Show Quick Type Hierarchy. Displays the type hierarchy for the selected class or interface.
+Eclipse also allows you to customize shortcuts to match your preferences. You can explore more shortcuts and their functionalities in the "Keys" preference page in Eclipse settings.
+Check documentation here: https://eclipseide.org/getting-started/
+
 ## IntelliJ Idea
+Note that these shortcuts are based on the default keybindings in IntelliJ IDEA.
 - **Ctrl + Space**: Basic code completion. Shows suggestions for code while typing.
 - **Ctrl + Shift + Space**: Smart code completion. Shows suggestions based on the type expected at the current caret position.
 - **Ctrl + N**: Open class. Allows you to quickly search for and open a specific class.
