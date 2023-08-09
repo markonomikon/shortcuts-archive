@@ -2,6 +2,7 @@
 
 - [IntelliJ Idea: shortcuts](#intellij-idea)
 - [Ubuntu: terminal shortcuts](#ubuntu)
+- [Visual Studio Code: shortcuts](#ubuntu)
 
 
 ## IntelliJ Idea
