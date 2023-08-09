@@ -40,6 +40,7 @@ Note that these shortcuts are based on the default keybindings in Eclipse IDE.
 - **Ctrl + Shift + Up/Down Arrow**: Move Lines. Moves the current line or selected lines up or down.
 - **Ctrl + Shift + I**: Auto-Indent. Corrects the indentation of the selected code.
 - **Ctrl + T**: Show Quick Type Hierarchy. Displays the type hierarchy for the selected class or interface.
+
 Eclipse also allows you to customize shortcuts to match your preferences. You can explore more shortcuts and their functionalities in the "Keys" preference page in Eclipse settings.
 Check documentation here: https://eclipseide.org/getting-started/
 
