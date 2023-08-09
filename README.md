@@ -21,10 +21,10 @@
 - **Ctrl + Q**: Quit DBeaver
 
 #### Query Editor Shortcuts:
-- **Ctrl + Enter: Execute Query
-- **Ctrl + E: Execute Statement
-- **F5: Execute All Statements
-- **Ctrl + Space: Auto-complete
+- **Ctrl + Enter**: Execute Query
+- **Ctrl + E**: Execute Statement
+- **F5**: Execute All Statements
+- **Ctrl + Space**: Auto-complete
 
 #### Navigation Shortcuts:
 - **Ctrl + Tab**: Switch between open tabs
