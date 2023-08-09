@@ -1,5 +1,6 @@
 # shortcuts-archive
 
+- [DBeaver](#dbeaver)
 - [Eclipse IDE](#eclipse)
 - [IntelliJ Idea](#intellij-idea)
 - [Ubuntu: terminal shortcuts](#ubuntu)
@@ -7,6 +8,54 @@
 - [Visual Studio](#visual-studio)
 - [Visual Studio Code](#visual-studio-code)
 
+## DBeaver
+#### General Shortcuts
+- **Ctrl + N**: New Connection
+- **Ctrl + Shift + N**: New SQL Editor
+- **Ctrl + O**: Open File
+- **Ctrl + S**: Save
+- **Ctrl + Shift + S**: Save As
+- **Ctrl + W**: Close active tab
+- **Ctrl + F4**: Close active tab
+- **Ctrl + Shift + T**: Open a new SQL file
+- **Ctrl + Q**: Quit DBeaver
+
+#### Query Editor Shortcuts:
+- **Ctrl + Enter: Execute Query
+- **Ctrl + E: Execute Statement
+- **F5: Execute All Statements
+- **Ctrl + Space: Auto-complete
+
+#### Navigation Shortcuts:
+- **Ctrl + Tab**: Switch between open tabs
+- **Ctrl + F6**: Switch between open SQL editors
+- **Ctrl + Shift + Left/Right Arrow**: Navigate between tabs
+- **Ctrl + Home**: Go to the beginning of the document
+- **Ctrl + End**: Go to the end of the document
+- **Ctrl + G**: Go to Line
+
+#### Database Explorer Shortcuts:
+- **Ctrl + T**: Show/Hide Database Navigator
+- **Ctrl + Alt + N**: New Database Connection
+- **Ctrl + Alt + D**: Disconnect
+- **F2**: Rename selected item
+- **F5**: Refresh selected item
+
+#### Results Viewer Shortcuts:
+- **Ctrl + F**: Find
+- **F3**: Find Next
+- **Shift + F3**: Find Previous
+
+#### Formatting Shortcuts:
+- **Ctrl + Shift + F**: Format SQL
+
+#### Other Useful Shortcuts:
+- **Ctrl + Z**: Undo
+- **Ctrl + Y**: Redo
+- **Ctrl + C**: Copy
+- **Ctrl + X**: Cut
+- **Ctrl + V**: Paste
+- **Ctrl + A**: Select All
 
 ## Eclipse
 Note that these shortcuts are based on the default keybindings in Eclipse IDE.
