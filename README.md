@@ -59,6 +59,51 @@
 - **Ctrl + Shift + F**: Find, similar to Ctrl + F on any text editor, use to find through the terminal console.
 - **Alt + C**: Capitalizes the word next to the cursor and move to end of the word. For Example: Suppose a word hangout and cursor is before hangout, the shortcut will capitalize ‘h’ of hangout and go to the end of the word.
 
+## Visual Studio
+Note that these shortcuts are based on the default keybindings in Visual Studio.
+- **Ctrl + S**: Save the current file.
+- **Ctrl + Shift + S**: Save all open files.
+- **Ctrl + F5**: Start without debugging. Runs your application without attaching the debugger.
+- **F5**: Start debugging. Launches your application with the debugger attached.
+- **Ctrl + F9**: Build the solution.
+- **Ctrl + Shift + B**: Build the selected project.
+- **Ctrl + Space**: IntelliSense. Displays suggestions for code completion as you type.
+- **Ctrl + .**: Quick Actions and Refactorings. Offers suggestions for fixing code issues and performing refactorings.
+- **Ctrl + K + C**: Comment out selected lines of code.
+- **Ctrl + K + U**: Uncomment selected lines of code.
+- **Ctrl + K + D**: Format document. Automatically formats your code according to your settings.
+- **Ctrl + / (or Ctrl + K + C)**: Toggle line comment.
+- **Ctrl + Tab**: Cycle through open documents.
+- **Ctrl + F**: Find. Opens the Find dialog for searching within the current document.
+- **Ctrl + H**: Replace. Opens the Replace dialog for finding and replacing text.
+- **Ctrl + Shift + F**: Find in Files. Searches for text across the entire solution.
+- **Ctrl + F12**: Go to Definition. Navigates to the definition of the selected symbol.
+- **Ctrl + ,**: Navigate to All. Allows quick navigation to types, members, files, and symbols in the solution.
+- **Ctrl + T**: Find Symbol. Searches for symbols in your solution.
+- **Ctrl + - (Ctrl + Hyphen)**: Navigate backward. Moves the cursor to the previous location.
+- **Ctrl + Shift + - (Ctrl + Shift + Hyphen)**: Navigate forward. Moves the cursor to the next location.
+- **Alt + Enter**: Show options. Displays a context menu with actions relevant to the current context.
+- **F12**: Go to Definition. Similar to Ctrl + F12, it navigates to the definition of the selected symbol.
+- **Shift + F12**: Find All References. Displays all references to the selected symbol in the solution.
+- **Ctrl + K + X**: Surround With. Wraps the selected code with a specific code construct (if, try-catch, etc.).
+- **Ctrl + K + V**: View code. Opens the generated code view for a designer file.
+- **Ctrl + Alt + L**: Solution Explorer. Focuses on the Solution Explorer window.
+- **Ctrl + Alt + S**: Server Explorer. Opens the Server Explorer window for database and server connections.
+- **Ctrl + Alt + T**: Task List. Displays the Task List window with comments and tasks in the code.
+- **Ctrl + K + S**: Server Explorer. Opens the Server Explorer window for database and server connections.
+- **Ctrl + Alt + X**: Toolbox. Opens the Toolbox window for drag-and-drop development.
+- **Ctrl + U**: Make Uppercase. Converts the selected text to uppercase.
+- **Ctrl + Shift + U**: Make Lowercase. Converts the selected text to lowercase.
+- **Ctrl + F4**: Close active document.
+- **Ctrl + K + O**: Collapse all. Collapses all regions and code blocks in the active document.
+- **Ctrl + K + E**: Expand all. Expands all collapsed regions and code blocks in the active document.
+- **Ctrl + Alt + Down Arrow**: Duplicate selected lines or code block.
+- **Ctrl + K + M**: Toggle outlining. Collapses/expands the current code block using outlining.
+- **Ctrl + . (Period) + Enter**: Add using directive. Automatically adds a missing using directive.
+- **Ctrl + -**: Navigate back. Moves the cursor to the previous location (similar to Alt + Left Arrow).
+- **Ctrl + Shift + -**: Navigate forward. Moves the cursor to the next location (similar to Alt + Right Arrow).
+- **Ctrl + F10**: Set Next Statement. Moves the debugger to the selected statement during debugging.
+
 ## Visual Studio Code
 Note that these shortcuts are based on the default keybindings in VS Code.
 - **Ctrl + P**: Quick Open. Allows you to quickly navigate to files in your project.
