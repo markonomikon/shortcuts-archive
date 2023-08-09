@@ -2,6 +2,7 @@
 
 - [IntelliJ Idea: shortcuts](#intellij-idea)
 - [Ubuntu: terminal shortcuts](#ubuntu)
+- [Postman: shortcuts](#postman)
 - [Visual Studio: shortcuts](#visual-studio)
 - [Visual Studio Code: shortcuts](#visual-studio-code)
 
@@ -27,6 +28,10 @@
 - **Ctrl + Alt + O**: Optimize imports. Removes unused and organizes imports in the current file.
 - **Shift + F6**: Rename. Allows you to quickly rename a symbol throughout the codebase.
 - **Ctrl + Shift + F7**: Highlight usages. Highlights all occurrences of the selected symbol within the file.
+
+Keep in mind that **IntelliJ IDEA** might introduce new features and shortcuts in updates,
+so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
+Check it here: https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html
 
 ## Ubuntu
 - **Ctrl + Shift + N**: New terminal window, this shortcut can be used to open a new terminal window. For this to work, you should already be on the terminal window.
@@ -59,6 +64,40 @@
 - **Super + RowDown**: Minimize, this is used to minimize the terminal window.
 - **Ctrl + Shift + F**: Find, similar to Ctrl + F on any text editor, use to find through the terminal console.
 - **Alt + C**: Capitalizes the word next to the cursor and move to end of the word. For Example: Suppose a word hangout and cursor is before hangout, the shortcut will capitalize ‘h’ of hangout and go to the end of the word.
+
+## Postman
+Note that these shortcuts are based on the default keybindings in Postman.
+- **Ctrl + N**: New request. Creates a new API request tab.
+- **Ctrl + T**: New tab. Opens a new tab within the current request.
+- **Ctrl + L**: Focus on URL bar. Moves the cursor to the URL bar for quick editing.
+- **Ctrl + Enter**: Send request. Sends the currently selected request.
+- **Ctrl + Shift + D**: Duplicate request. Creates a copy of the current request.
+- **Ctrl + Shift + N**: New collection. Creates a new collection.
+- **Ctrl + Shift + U**: Toggle UI Components. Toggles the visibility of UI components like sidebars.
+- **Ctrl + / (or Ctrl + K + C)**: Toggle line comment. Comments or uncomments selected lines in the request editor.
+- **Ctrl + Shift + F**: Toggle request/response formatting. Formats the request or response data for better readability.
+- **Ctrl + Alt + L**: Beautify JSON. Formats JSON data in the request or response to be more readable.
+- **Ctrl + Alt + S**: Settings. Opens the settings panel.
+- **Ctrl + S**: Save request. Saves the current request to the active collection.
+- **Ctrl + F**: Search. Opens the search bar for finding text within the current request.
+- **Ctrl + E**: Focus on search bar. Places the cursor in the search bar for quick searching.
+- **Ctrl + D**: Toggle description. Toggles the visibility of the description panel in the request editor.
+- **Ctrl + Alt + A**: Toggle history. Toggles the visibility of the history sidebar.
+- **Ctrl + Alt + B**: Toggle collections. Toggles the visibility of the collections sidebar.
+- **Ctrl + Space**: Autocomplete. Shows suggestions for variables and available environments.
+- **Ctrl + Alt + V**: Paste special. Opens a dialog to paste variables or environment values.
+- **Ctrl + Shift + H**: Toggle hidden fields. Toggles the visibility of hidden fields in the request editor.
+- **Ctrl + Shift + P**: Toggle code snippet. Opens the code snippet panel to generate code snippets for the request.
+- **Ctrl + Shift + Q**: Toggle request description. Toggles the visibility of the request description panel.
+- **Ctrl + Shift + L**: Toggle keyboard shortcuts reference. Opens a modal with a list of keyboard shortcuts.
+- **Ctrl + Alt + T**: Generate tests. Opens the test snippet panel to generate test scripts for the response.
+- **Ctrl + Shift + G**: Generate schema. Opens the schema generator to generate a schema from a response.
+- **Ctrl + Shift + C**: Toggle console. Opens or closes the console panel for viewing API call details.
+- **Ctrl + Alt + R**: Open runner. Opens the Runner for running multiple requests in a sequence.
+
+Keep in mind that **Postman** might introduce new features and shortcuts in updates, 
+so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
+Check it here: https://blog.postman.com/speeding-up-workflows-with-keyboard-shortcuts/
 
 ## Visual Studio
 Note that these shortcuts are based on the default keybindings in Visual Studio.
@@ -105,6 +144,10 @@ Note that these shortcuts are based on the default keybindings in Visual Studio.
 - **Ctrl + Shift + -**: Navigate forward. Moves the cursor to the next location (similar to Alt + Right Arrow).
 - **Ctrl + F10**: Set Next Statement. Moves the debugger to the selected statement during debugging.
 
+Keep in mind that **Visual Studio** might introduce new features and shortcuts in updates,
+so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
+Check it here: https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022
+
 ## Visual Studio Code
 Note that these shortcuts are based on the default keybindings in VS Code.
 - **Ctrl + P**: Quick Open. Allows you to quickly navigate to files in your project.
@@ -132,3 +175,7 @@ Note that these shortcuts are based on the default keybindings in VS Code.
 - **Ctrl + Tab**: Cycle through recent files. Switches between recently opened files.
 - **Ctrl + ` (backtick) + F**: Toggle search panel. Toggles the search panel for finding text across the entire workspace.
 - **Ctrl + F12**: Go to symbol. Shows a list of symbols in the current file for quick navigation.
+
+Keep in mind that **VS Code** might introduce new features and shortcuts in updates,
+so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
+Check it here: https://code.visualstudio.com/docs/getstarted/keybindings
