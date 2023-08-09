@@ -1,5 +1,6 @@
-# shortcuts-archive
+# Shortcuts & commands archive
 
+##### SHORTCUTS
 - [DBeaver](#dbeaver)
 - [Eclipse IDE](#eclipse)
 - [IntelliJ Idea](#intellij-idea)
@@ -7,6 +8,8 @@
 - [Postman](#postman)
 - [Visual Studio](#visual-studio)
 - [Visual Studio Code](#visual-studio-code)
+##### COMMANDS
+- [Git](#git)
 
 ## DBeaver
 Open-source database tool for connecting, querying, and managing databases with versatile support for different systems.
@@ -100,7 +103,7 @@ Open-source integrated development environment (IDE) for coding, debugging, and 
 - **Ctrl + T**: Show Quick Type Hierarchy. Displays the type hierarchy for the selected class or interface.
 
 Eclipse also allows you to customize shortcuts to match your preferences. You can explore more shortcuts and their functionalities in the "Keys" preference page in Eclipse settings.
-Check documentation here: https://eclipseide.org/getting-started/
+Check it here: https://eclipseide.org/getting-started/
 
 ## IntelliJ Idea
 Premium integrated development environment (IDE) for streamlined coding, testing, and debugging, with advanced features for Java and other languages.
@@ -286,3 +289,50 @@ Keep in mind that **VS Code** might introduce new features and shortcuts in upda
 so it's a good idea to check the official documentation or the application itself for the most up-to-date information.
 Check it here: https://code.visualstudio.com/docs/getstarted/keybindings
 
+
+# Commands
+
+## Git
+- **git init**: Initialize a new Git repository in the current directory.
+- **git clone [repository_url]**: Clone a remote repository to your local machine.
+- **git add [file(s)]**: Stage changes for commit. You can use git add . to stage all changes.
+- **git commit -m "Commit message"**: Commit staged changes with a descriptive message.
+- **git pull**: Fetch and integrate changes from a remote repository into your local branch.
+- **git push**: Push your committed changes to a remote repository.
+- **git status**: View the current status of your working directory and staged changes.
+- **git diff**: Show the differences between your working directory and the last commit.
+- **git log**: Display the commit history with details.
+- **git branch**: List existing branches and show the current branch.
+- **git checkout [branch_name]**: Switch to a different branch.
+- **git merge [branch_name]**: Merge changes from one branch into the current branch.
+- **git remote -v**: Display the remote repositories associated with your local repository.
+- **git remote add [remote_name] [repository_url]**: Add a new remote repository.
+- **git remote remove [remote_name]**: Remove a remote repository.
+- **git stash**: Temporarily save changes that are not ready to be committed.
+- **git stash apply**: Apply the most recent stash.
+- **git reset [file(s)]**: Unstage changes from the staging area.
+- **git revert [commit]**: Create a new commit that undoes the changes introduced by a specific commit.
+- **git fetch**: Download changes from a remote repository without integrating them.
+- **git branch -d [branch_name]**: Delete a local branch.
+- **git push origin --delete [branch_name]**: Delete a remote branch.
+- **git checkout -b [new_branch_name]**: Create and switch to a new branch in one command.
+- **git fetch origin [branch_name]**: Fetch changes for a specific branch from a remote repository.
+- **git pull origin [branch_name]**: Fetch and merge changes from a remote branch into your current branch.
+- **git tag [tag_name]**: Create a lightweight tag for a specific commit.
+- **git tag -a [tag_name] -m "Tag message" [commit]**: Create an annotated tag with a message.
+- **git show [commit]**: Display detailed information about a specific commit.
+- **git remote show [remote_name]**: Show information about a specific remote repository.
+- **git config --global user.name "Your Name"**: Set your global username.
+- **git config --global user.email "you@example.com"**: Set your global email.
+- **git log --graph**: Display a visual representation of the commit history graph.
+- **git rebase [base_branch]**: Reapply commits from the current branch on top of another branch.
+- **git cherry-pick [commit]**: Apply a specific commit from one branch to another.
+- **git blame [file]**: Display line-by-line annotations showing who last modified each line in a file.
+- **git clean -n**: Show what would be removed by the git clean command.
+- **git remote rename [old_name] [new_name]**: Rename a remote repository.
+- **git commit --amend**: Modify the most recent commit's message or content.
+- **git show-branch**: Display the branches and their commits in a compact format.
+- **git submodule init**: Initialize submodules in a repository.
+
+**Git** offers a wide range of commands and functionalities, so it's a good idea to refer to the official **Git** documentation or online resources for more in-depth information.
+Check it here: https://docs.github.com/en/get-started/using-git/about-git
