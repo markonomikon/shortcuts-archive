@@ -9,7 +9,9 @@
 - [Visual Studio](#visual-studio)
 - [Visual Studio Code](#visual-studio-code)
 ##### COMMANDS
+- [Docker](#docker)
 - [Git](#git)
+- [Maven](#maven) 
 
 ## DBeaver
 Open-source database tool for connecting, querying, and managing databases with versatile support for different systems.
