@@ -57,3 +57,31 @@
 - **Super + RowDown**: Minimize, this is used to minimize the terminal window.
 - **Ctrl + Shift + F**: Find, similar to Ctrl + F on any text editor, use to find through the terminal console.
 - **Alt + C**: Capitalizes the word next to the cursor and move to end of the word. For Example: Suppose a word hangout and cursor is before hangout, the shortcut will capitalize ‘h’ of hangout and go to the end of the word.
+
+## Visual Studio Code
+Note that these shortcuts are based on the default keybindings in VS Code.
+- **Ctrl + P**: Quick Open. Allows you to quickly navigate to files in your project.
+- **Ctrl + Shift + N**: New window. Opens a new window of VS Code.
+- **Ctrl + B**: Toggle sidebar visibility. Shows or hides the sidebar containing the file explorer, extensions, etc.
+- **Ctrl + /**: Toggle line comment. Comments or uncomments the current line or selected lines.
+- **Ctrl + F**: Find. Opens the search bar for finding text within the current file.
+- **Ctrl + H**: Replace. Opens the search bar with replace options for finding and replacing text within the current file.
+- **Ctrl + F5**: Start debugging. Launches the debugger for your code.
+- **Ctrl + ` (backtick)**: Toggle integrated terminal. Opens or closes the integrated terminal at the bottom.
+- **Ctrl + P + > (Ctrl + P, then type ">")**: Go to symbol. Allows you to quickly navigate to classes, methods, and other symbols in the current file.
+- **Ctrl + Shift + F**: Find in files. Searches for text across all files in the workspace.
+- **Ctrl + Shift + P**: Command Palette. Opens the command palette for executing various commands and actions.
+- **Ctrl + Shift + X**: Extensions. Opens the Extensions view to manage and install extensions.
+- **Ctrl + G**: Go to line. Opens a dialog for quickly jumping to a specific line in the current file.
+- **Ctrl + K + C**: Add line comment. Comments the selected lines.
+- **Ctrl + K + U**: Remove line comment. Removes comments from the selected lines.
+- **Ctrl + W (or Ctrl + Shift + W)**: Select word (or expand selection). Expands the selection in a step-wise manner.
+- **Alt + Up/Down**: Move line up or down. Moves the current line or selection up or down in the file.
+- **Alt + Click**: Multi-cursor editing. Allows you to add multiple cursors for simultaneous editing.
+- **Ctrl + [ or ]**: Indent/outdent line or selection. Adjusts the indentation of the current line or selected code.
+- **Ctrl + K + S**: Save all. Saves all open files.
+- **Ctrl + Shift + [ or ]**: Fold/unfold code blocks. Collapses or expands code blocks for easier navigation.
+- **Ctrl + J**: Quick suggestions. Shows quick suggestions while typing.
+- **Ctrl + Tab**: Cycle through recent files. Switches between recently opened files.
+- **Ctrl + ` (backtick) + F**: Toggle search panel. Toggles the search panel for finding text across the entire workspace.
+- **Ctrl + F12**: Go to symbol. Shows a list of symbols in the current file for quick navigation.
