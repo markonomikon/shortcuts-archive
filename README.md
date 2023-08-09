@@ -1,10 +1,10 @@
 # shortcuts-archive
 
-- [IntelliJ Idea: shortcuts](#intellij-idea)
+- [IntelliJ Idea](#intellij-idea)
 - [Ubuntu: terminal shortcuts](#ubuntu)
-- [Postman: shortcuts](#postman)
-- [Visual Studio: shortcuts](#visual-studio)
-- [Visual Studio Code: shortcuts](#visual-studio-code)
+- [Postman](#postman)
+- [Visual Studio](#visual-studio)
+- [Visual Studio Code](#visual-studio-code)
 
 
 ## IntelliJ Idea
